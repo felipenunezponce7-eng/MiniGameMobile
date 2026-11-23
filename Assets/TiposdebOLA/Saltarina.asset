@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64ee5e3da6069a6458b0197a105b15cd, type: 3}
+  m_Name: Saltarina
+  m_EditorClassIdentifier: Assembly-CSharp::TipoDeBola
+  displayName: Saltarina
+  description: Rebota un 20% mas con cada mejora
+  icon: {fileID: 8535337913191051235, guid: 41b4e10bab192a34ba287877c609b918, type: 3}
+  weight: 20
+  isUpgrade: 1
+  color: {r: 0.98700124, g: 1, b: 0.4292453, a: 1}
+  scale: 1
+  damage: 1
+  physicsMaterial: {fileID: 13400000, guid: 2745630032fa4604aa8ff6a6603a51ae, type: 2}
+  effect: 4
+  sizeGrowth: 0.2
+  damagePerLevel: 1
+  bouncePerLevel: 0.1
+  explosionRadius: 2
+  radiusPerLevel: 0.5
+  explosionDamage: 2
+  explosionEffectPrefab: {fileID: 8629251635897166078, guid: e6823dfbe100568448678723a53e5e82, type: 3}
+  trailEffectPrefab: {fileID: 7110466205759922472, guid: fd20a5354b8c5e34586149601c63e691, type: 3}
+  fadeColor: {r: 0.97404873, g: 1, b: 0, a: 1}
+  fadeAmount: 0.35

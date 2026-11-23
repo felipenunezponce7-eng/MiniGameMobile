@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64ee5e3da6069a6458b0197a105b15cd, type: 3}
+  m_Name: Bomba
+  m_EditorClassIdentifier: Assembly-CSharp::TipoDeBola
+  displayName: Bomba
+  description: Genera una explosion
+  icon: {fileID: -4376231836577913517, guid: 72c182a75a874324d8c95da8825e9fa9, type: 3}
+  weight: 20
+  isUpgrade: 1
+  color: {r: 0.5188679, g: 0.5188679, b: 0.5188679, a: 1}
+  scale: 1
+  damage: 1
+  physicsMaterial: {fileID: 13400000, guid: 2745630032fa4604aa8ff6a6603a51ae, type: 2}
+  effect: 5
+  sizeGrowth: 0.2
+  damagePerLevel: 1
+  bouncePerLevel: 0.1
+  explosionRadius: 2
+  radiusPerLevel: 0.5
+  explosionDamage: 2
+  explosionEffectPrefab: {fileID: 5583614256442979318, guid: 006fcc1d4d9c2fc4189ffdbd2b4e9d16, type: 3}
+  trailEffectPrefab: {fileID: 7110466205759922472, guid: fd20a5354b8c5e34586149601c63e691, type: 3}
+  fadeColor: {r: 0, g: 0, b: 0, a: 1}
+  fadeAmount: 0.35

@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\menusetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menusetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\rewardui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rewardui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\mazodebolas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mazodebolas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\bolaspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bolaspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|f:\\trabajos_unity\\proyecto_arcademobile\\assets\\scripts\\ajustarcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ajustarcanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|f:\\trabajos_unity\\proyecto_arcademobile\\assets\\scripts\\fundidoescena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fundidoescena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\botonesdeflujo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\botonesdeflujo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\niveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\niveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\generadorniveles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\generadorniveles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\cargadornivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cargadornivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\bola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\sonidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sonidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\shakecamara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shakecamara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\fondotablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fondotablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\feedbacknivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\feedbacknivel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\hudjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hudjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB50776E-C65E-143F-CFBF-20DF50EC44D3}|Assembly-CSharp-Editor.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\editor\\efectossetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB50776E-C65E-143F-CFBF-20DF50EC44D3}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\efectossetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\tipodebola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tipodebola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\rewardpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rewardpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\rewardcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rewardcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|F:\\trabajos_unity\\Proyecto_ArcadeMobile\\assets\\scripts\\runstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A12104F-B82F-6C09-8950-2D8BC58669C0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AjustarCanvas.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\AjustarCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AjustarCanvas.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\AjustarCanvas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AjustarCanvas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T22:33:42.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GeneradorNiveles.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\GeneradorNiveles.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GeneradorNiveles.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\GeneradorNiveles.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GeneradorNiveles.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:12:30.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CargadorNivel.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\CargadorNivel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CargadorNivel.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\CargadorNivel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CargadorNivel.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAIwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:12:13.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuSetup.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\MenuSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuSetup.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\MenuSetup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:11:43.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sonidos.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\Sonidos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sonidos.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\Sonidos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sonidos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:10:53.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShakeCamara.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\ShakeCamara.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShakeCamara.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\ShakeCamara.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShakeCamara.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:10:21.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FondoTablero.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\FondoTablero.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FondoTablero.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\FondoTablero.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FondoTablero.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAAMAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:09:58.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FeedbackNivel.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\FeedbackNivel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FeedbackNivel.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\FeedbackNivel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FeedbackNivel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:09:24.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HudJuego.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\HudJuego.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HudJuego.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\HudJuego.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HudJuego.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:07:15.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Block.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\Block.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Block.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\Block.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Block.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:03:52.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BolaSpawner.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\BolaSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BolaSpawner.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\BolaSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BolaSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T23:37:24.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MazoDeBolas.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\MazoDeBolas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MazoDeBolas.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\MazoDeBolas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MazoDeBolas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T20:08:45.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuPrincipal.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\MenuPrincipal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuPrincipal.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA4wFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:13:21.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RewardUI.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\RewardUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RewardUI.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\RewardUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RewardUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T20:19:08.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NivelData.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\NivelData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NivelData.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\NivelData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NivelData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:12:45.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BotonesDeFlujo.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\BotonesDeFlujo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BotonesDeFlujo.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\BotonesDeFlujo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BotonesDeFlujo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:13:03.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FundidoEscena.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\FundidoEscena.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FundidoEscena.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\FundidoEscena.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FundidoEscena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T06:13:43.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EfectosSetup.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Editor\\EfectosSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\EfectosSetup.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Editor\\EfectosSetup.cs",
+              "RelativeToolTip": "Assets\\Editor\\EfectosSetup.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAAAJ8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T01:38:32.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T00:00:32.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bola.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\Bola.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bola.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\Bola.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bola.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vx8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T23:36:43.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RunState.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\RunState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RunState.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\RunState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RunState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T20:19:20.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RewardCard.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\RewardCard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RewardCard.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\RewardCard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RewardCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T20:11:08.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RewardPool.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\RewardPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RewardPool.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\RewardPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RewardPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T20:10:53.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TipoDeBola.cs",
+              "DocumentMoniker": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\TipoDeBola.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TipoDeBola.cs",
+              "ToolTip": "F:\\trabajos_unity\\Proyecto_ArcadeMobile\\Assets\\Scripts\\TipoDeBola.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TipoDeBola.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T20:10:16.925Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
